@@ -1,0 +1,5 @@
+ON F2 power to shield and eng ( -1 )
+ON F3 toggle ecm
+ON F5 toggle combat mode
+ON F6 pulse wave and boost	
+ON F7 chaf toggle every 40 seconds
